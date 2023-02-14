@@ -1,0 +1,23 @@
+.form {
+}
+.formContainer {
+  display: grid;
+  text-align: center;
+  border: 2px solid aliceblue;
+  border-radius: 15px;
+  padding: 4px 4px;
+}
+.formContainer p {
+  margin: 0;
+}
+
+.btnSubmit {
+  background-color: rgb(39, 115, 190);
+  color: aliceblue;
+}
+.btnSubmit:hover {
+  border-radius: 5px;
+  background-color: rgb(12, 85, 159);
+  /* scale: 1.1; */
+  transition: 300ms;
+}
