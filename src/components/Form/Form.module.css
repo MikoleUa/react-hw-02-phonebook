@@ -17,7 +17,7 @@
 }
 .btnSubmit:hover {
   border-radius: 5px;
-  background-color: rgb(12, 85, 159);
+  background-color: rgb(8, 74, 139);
   /* scale: 1.1; */
   transition: 300ms;
 }
